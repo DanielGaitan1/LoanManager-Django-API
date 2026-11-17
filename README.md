@@ -119,16 +119,6 @@ This is an educational project, not a production-ready financial system.
 
 The API currently does not implement user authentication, authorization, automated tests, or loan update/delete endpoints.
 
-## Future Improvements
-
-- Add GET endpoints for individual loans.
-- Implement PATCH and DELETE operations.
-- Introduce Django REST Framework.
-- Add automated API tests.
-- Implement authentication and authorization.
-- Add database-level constraints and transaction handling.
-- Explore PostgreSQL for database persistence.
-
 ## Author
 
 Daniel Gaitan
